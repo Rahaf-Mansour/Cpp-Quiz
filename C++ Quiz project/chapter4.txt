@@ -1,0 +1,51 @@
+a 1) Relational operators allow you to ________ numbers.
+a A) add
+a B) multiply
+a C) compare
+a D) average
+a 2) A(n) ________ is a variable, usually a bool, that signals when a condition exists.
+a A) flag
+a B) identifier
+a C) named constant
+a D) condition variable
+a 3) The ________ statement executes one block of statements if a test condition is true, and another block if the condition is false.
+a A) if
+a B) if/else
+a C) if/else if
+a D) switch
+a 4) A trailing else placed at the end of an if/else if statement provides a default action when ________ of the if conditions is/are true.
+a A) none
+a B) any one
+a C) only the last one
+a D) at least two
+a 5) When an if statement is placed within the conditionally-executed code of another if statement, this is known as a(n)
+a A) complex if
+a B) overloaded if
+a C) nested if
+a D) conditional if
+a 6) If a switch statement has no ________ statements, the program "falls through" all of the statements below the one with the matching case expression.
+a A) break
+a B) exit
+a C) case
+a D) default
+a 7) True/False: All of the relational operators are binary.
+a A) True
+a B) False
+\\a
+\\a
+a 8) True/False: To check if a variable has a particular value, use the = relational operator, as in the statement
+a A) True
+a B) False
+\\a
+\\a
+a 9) True/False: A pair of characters or a pair of string objects can be compared with any of the relational operators.
+a A) True
+a B) False
+\\a
+\\a
+a 10)True/False: Assuming goodData is a Boolean variable, the following two tests are logically equivalent.(1)if (goodData == false) (2) if (!goodData)
+a A) True
+a B) False
+\\a
+\\a
+a

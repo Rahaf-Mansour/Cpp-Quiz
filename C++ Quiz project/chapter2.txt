@@ -1,0 +1,42 @@
+
+1 1)This symbol#  is used before 
+A A.a comment
+B B.a preprocessor directive
+C C.to naming a function 
+1 2)You can use ______ to send multiple items to cout 
+A A.<<
+B B.>>
+C C.&&
+1 3) If a new value is stored in the variable, it _________the previous value
+A A. replaces 
+B B. Still with it in the same place 
+C C. none of above 
+1 4)  A ________is a piece of data that is written directly in the source code of the program
+A A. variable 
+B B. Literal 
+C C. Character  
+1 5) A variable name should reflect its 
+A A. Purpose 
+B B. Type 
+C C. none of above 
+1 6) A character literal is a single character, enclosed in 
+A A. Single quotes 
+B B. double quotes 
+C C. ( )
+1 7)A string literal is a sequence of characters enclosed in 
+A A. Single quotes 
+B B. double quotes
+C C. ( )
+1 8) Must #include __________ to create and use string objects
+A A. <String>
+B B. <iostream>
+C C. <Math>
+1 9) The bool data type represents values that are
+A A.1 OR 2
+B B. True OR false
+C C. A+B
+1 10) C++ modulus operator_____ computes the remainder resulting from integer division
+A A. +
+B B. %
+C C. =
+

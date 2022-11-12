@@ -1,0 +1,51 @@
+a 1)  ________ is used in a C++ program to mark the end of a statement, or to separate items in a list. 
+a A)  A separator 
+a B)  Punctuation 
+a C)  An operator 
+a D)  A keyword
+a 2)  The statements written by a programmer are called 
+a A)  syntax. 
+a B)  object code. 
+a C)  source code. 
+a D)  language elements.  
+a 3)  The term hardware refers to  
+a A)  the difficulty of programming. 
+a B)  the physical components that make up a computer.  
+a C)  the way a computer's storage space is organized. 
+a D)  the fixed order of a program's instructions. 
+a 4)  The CPU includes 
+a A)  the arithmetic and logic unit (ALU) and the control unit.
+a B)  the ALU and the I/O unit.
+a C)  the I/O unit and the control unit.
+a D)  the ALU and the main memory unit.
+a 5)  The computer's main memory is commonly known as 
+a A)  direct-access memory (DAM). 
+a B)  random-access memory (RAM). 
+a C)  read only memory (ROM). 
+a D)  secondary storage. 
+a 6)  A set of well-defined steps for performing a task or solving a problem is known as  
+a A)  a hierarchy chart. 
+a B)  a flowchart.
+a C)  a solution engine.
+a D)  an algorithm.
+a 7)  At the heart of a computer is its central processing unit (CPU).  Its job is to 
+a A)  fetch instructions. 
+a B)  carry out the operations commanded by the instructions. 
+a C)  produce some result.
+a D)  do all of the above. 
+a 8)  True/False: Most of the lines in a program contain something meaningful; however, some of the lines may contain nothing at all. 
+a A)  TRUE
+a B)  FALSE 
+\\a
+\\a  
+a 9)  True/False: Before a computer can execute a program written in a high level language, such as C++, it must be translated into object code.
+a A)  FALSE
+a B)  TRUE
+\\a
+\\a
+a 10) True/False: The purpose of the compiler is to convert object code into source code.   
+a A)  TRUE
+a B)  FALSE
+\\a
+\\a
+a

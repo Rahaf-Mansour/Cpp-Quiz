@@ -1,0 +1,59 @@
+1 1) The while loop has two important parts: a condition that is tested and a statement or block of statements that is
+2 a) repeated as long as the condition is true.
+3 b) repeated until the condition becomes true.
+4 c) done once if the condition is true.
+5 d) always done at least once, then repeated if the condition is true.
+
+6 2) The ++ operator
+7 A) is a unary operator.
+8 B) adds one to the value of its operand.
+9 C) can operate in prefix or postfix mode.
+1 D) All of the above.
+
+2 3) What will the following code print? num = 8; cout << --num << ' '; cout <<num++ <<' '; cout <<num;
+3 A) 7 7 8
+4 B) 7 8 8
+5 C) 8 7 8
+6 D) None of these
+
+7 4) A for statement contains three expressions: initialization, test, and
+8 A) repeat.
+9 B) validate.
+1 C) update.
+2 D) quit.
+
+3 5) For data validation, it is best to use a(n)
+4 A) if statement.
+5 B) while loop.
+6 C) for loop.'
+7 D) nested loop.
+
+8 6) To use files in a C++ program you must include the ________ header file.
+9 A) file
+1 B) iostream
+2 C) fstream
+3 D) Both A and B..
+
+4 7) To use an output file in a C++ program you must
+5 A) make sure the file already exists.
+6 B) create a file stream object that will “point to” (i.e. reference) the file.
+7 C) open the file.
+8 D) do B and C, but not A.
+
+9 8) The statements in the body of a do-while loop are executed
+1 A) exactly once.
+2 B) at least once.
+3 C) only if the test condition is initially true.
+4 D) until the test condition becomes true.
+
+5 9) The while loop is a(n) ________ loop, whereas the do-while loop is a(n) ________ loop.
+6 A) finite, infinit
+7 B) infinite, finite
+8 C) pretest, post test
+9 D) post test, pretest
+
+1 10) In a for statement, the ________ expression is executed only once.
+2 A) initialization
+3 B) test
+4 C) repeat
+5 D) validate

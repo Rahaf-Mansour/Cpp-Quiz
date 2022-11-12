@@ -1,0 +1,50 @@
+a 1) Which of the following expressions will evaluate to 2.5?
+a A) static_cast<double>(5/2) 
+a B) static_cast<double>(5)/2
+a C) 5/static_cast<double>(2)
+a D) Both B and C, but not A
+a 2) Which of the following statements doubles the value stored in answer?
+a A) answer += 2;
+a B) answer *= 2;
+a C) answer = answer * 2;
+a D) Both B and C, but not A.
+a 3) ________ can be used to override the rules of operator precedence.
+a A) Some operators 
+a B) Parentheses
+a C) Operands
+a D) Associativity
+a 4) Hand tracing a program is
+a A) a program design technique.
+a B) a program run-time testing technique.
+a C) a program debugging technique.
+a D) creating a drawing of what a program's output screen will look like.
+a 5) Program code that can be evaluated to a value is called a(n)
+a A) operation..
+a B) evaluator.
+a C) result.
+a D) expression.
+a 6) In any program that uses the cin object, you must #include
+a A) the iostream header file.
+a B) the fstream header file.
+a C) >> and << operators.
+a D) named constants.
+a 7) In C++, a value can be raised to a power by using 
+a A) the ^ operator.  
+a B) the exp operator. 
+a C) the power operator. 
+a D) the pow function. 
+a 8) ________ causes a program to wait until information is typed at the keyboard and the Enter key is pressed.
+a A) An input device
+a B) The cin object
+a C) The cout object
+a D) A preprocessor
+a 9) The ________ stream manipulator can be used to establish a field width for the value immediately following it.
+a A) cin
+a B) setField
+a C) setw
+a D) iomanip
+a 10) To use stream manipulators, you should include the ________ header file.
+a A) stream
+a B) fstream  
+a C) format
+a D) iomanip
