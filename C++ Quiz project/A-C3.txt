@@ -1,0 +1,10 @@
+1) A) static_cast<double>(5/2) 
+2) A) answer += 2;
+3) A) Some operators
+4) A) a program design technique.
+5) A) operation.
+6) A) the iostream header file.
+7) A) the ^ operator. 
+8) A) An input device
+9) A) cin
+10) A) stream

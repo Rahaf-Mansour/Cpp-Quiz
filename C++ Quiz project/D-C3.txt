@@ -1,0 +1,10 @@
+1) D) Both B and C, but not A
+2) D) Both B and C, but not A
+3) D) Associativity
+4) D) creating a drawing of what a program's output screen will look like.
+5) D) expression.
+6) D) named constants.
+7) D) the pow function. 
+8) D) A preprocessor
+9) D) iomanip
+10) D) iomanip

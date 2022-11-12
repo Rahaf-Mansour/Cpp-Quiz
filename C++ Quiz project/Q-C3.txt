@@ -1,0 +1,10 @@
+1) Which of the following expressions will evaluate to 2.5?
+2) Which of the following statements doubles the value stored in answer?
+3) ________ can be used to override the rules of operator precedence.
+4) Hand tracing a program is
+5) Program code that can be evaluated to a value is called a(n)
+6) In any program that uses the cin object, you must #include
+7) In C++, a value can be raised to a power by using 
+8) ________ causes a program to wait until information is typed at the keyboard and the Enter key is pressed.
+9) The ________ stream manipulator can be used to establish a field width for the value immediately following it.
+10) To use stream manipulators, you should include the ________ header file.

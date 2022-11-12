@@ -1,0 +1,10 @@
+1) B) static_cast<double>(5)/2
+2) B) answer *= 2;
+3) B) Parentheses
+4) B) a program run-time testing technique.
+5) B) evaluator.
+6) B) the fstream header file.
+7) B) the exp operator. 
+8) B) The cin object
+9) B) setField
+10) B) fstream
